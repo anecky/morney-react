@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/morney-react/static/css/main.63649533.css",
+    "main.js": "/morney-react/static/js/main.1f586798.js",
+    "static/js/529.e34ab350.chunk.js": "/morney-react/static/js/529.e34ab350.chunk.js",
+    "index.html": "/morney-react/index.html",
+    "main.63649533.css.map": "/morney-react/static/css/main.63649533.css.map",
+    "main.1f586798.js.map": "/morney-react/static/js/main.1f586798.js.map",
+    "529.e34ab350.chunk.js.map": "/morney-react/static/js/529.e34ab350.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63649533.css",
+    "static/js/main.1f586798.js"
+  ]
+}
